@@ -48,7 +48,9 @@ Note: A smaller distance indicates greater similarity between images.
 **👩‍💻 Project Information**
 
 Project Title: Alzheimer Brain MRI Image Retrieval
+
 Domain: Image Processing and Machine Learning
+
 Platform: MATLAB
 
 ---
